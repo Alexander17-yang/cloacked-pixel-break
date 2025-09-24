@@ -1,5 +1,6 @@
-#cloacked-pixel-break
-cloacked-pixel-break基于https://github.com/livz/cloacked-pixel二改项目
+cloacked-pixel-break
+
+cloacked-pixel-break基于https://github.com/livz/cloacked-pixel   二次开发项目
 
 移除了旧python2的脚本相关限制，使用python3算法
 
